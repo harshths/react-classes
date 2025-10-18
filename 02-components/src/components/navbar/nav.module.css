@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(103, 179, 138);
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 5px 30px;
+}
+
+.items{
+    display: flex;
+    margin-left: auto;
+    gap: 30px;
+}
